@@ -1,1 +1,1 @@
-# bruce-maggie.github.io
+# Bruce-Maggie.github.io
