@@ -1,2 +1,2 @@
-# Bruce-Maggie.github.io
-Bruce and Maggie's Webpage
+# Maggie-Bruce.github.io
+Maggie and Bruce's Webpage
