@@ -1,2 +1,2 @@
-# Maggie-Bruce.github.io
-Maggie and Bruce's Webpage
+# vista.github.io
+**V**isual **I**ntelligence & **S**ocial Mul**t**imedia **A**nalytics
